@@ -65,3 +65,7 @@ docs/_build/
 # PyBuilder
 target/
 
+How Much is*
+.direnv/
+.DS_store
+spambase/
